@@ -1,0 +1,8 @@
+body {
+    background-color: antiquewhite;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+}
